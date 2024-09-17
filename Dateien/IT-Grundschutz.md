@@ -824,7 +824,7 @@ Einfach
 Vorderseite:
 ## Frage 6 (Umsetzungsplanung):
 
-Welches Hilfsmittel im IT-Grundschutz-Kompendium können Sie verwenden, um Ihrer Leitung zu verdeutlichen, welche Risiken die Nichterfüllung von Anforderungen mit sich bringt?
+Welches Hilfsmittel zum IT-Grundschutz-Kompendium können Sie verwenden, um Ihrer Leitung zu verdeutlichen, welche Risiken die Nichterfüllung von Anforderungen mit sich bringt?
 
 1. das Restrisikodeklarationsformular im Anhang des Kompendiums
 2. die Kreuzreferenztabellen am Ende eines Bausteins 
